@@ -1,0 +1,8 @@
+target
+results
+spark-warehouse
+metastore_db
+.idea
+.DS_Store
+*.class
+*.log
