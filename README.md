@@ -1,6 +1,6 @@
 ## Building an automatic data profiling and reporting solution with Amazon EMR, AWS Glue, and Amazon QuickSight
 
-GitHub code repository for the “Data Profiler For AWS Glue Data Catalog” application presented in the AWS Big Data Blog post "[Building an automatic data profiling and reporting solution with Amazon EMR, AWS Glue, and Amazon QuickSight](http://example.com/)".
+GitHub code repository for the “Data Profiler For AWS Glue Data Catalog” application described in the AWS Big Data Blog post "[Building an automatic data profiling and reporting solution with Amazon EMR, AWS Glue, and Amazon QuickSight](https://aws.amazon.com/blogs/big-data/build-an-automatic-data-profiling-and-reporting-solution-with-amazon-emr-aws-glue-and-amazon-quicksight/)".
 
 ![Architecture](./resources/architecture.png?raw=true "Architecture")
 
@@ -64,9 +64,8 @@ The following table summarizes the input parameters that the application accepts
 
 ### Usage Example
 
-Please see the [AWS Big Data blog post](http://example.com/) associated with this repository to see a detailed walkthrough on how to use this applicaiton.
+Please see the [AWS Big Data blog post](https://aws.amazon.com/blogs/big-data/build-an-automatic-data-profiling-and-reporting-solution-with-amazon-emr-aws-glue-and-amazon-quicksight/) associated with this repository to see a detailed walkthrough on how to use this applicaiton.
 
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
